@@ -1,0 +1,17 @@
+C:\Personal\Project\EventManagement\EventManagement.Repository\obj\Debug\net6.0\EventManagement.Application.csproj.AssemblyReference.cache
+C:\Personal\Project\EventManagement\EventManagement.Repository\obj\Debug\net6.0\EventManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal\Project\EventManagement\EventManagement.Repository\obj\Debug\net6.0\EventManagement.Application.AssemblyInfoInputs.cache
+C:\Personal\Project\EventManagement\EventManagement.Repository\obj\Debug\net6.0\EventManagement.Application.AssemblyInfo.cs
+C:\Personal\Project\EventManagement\EventManagement.Repository\obj\Debug\net6.0\EventManagement.Application.csproj.CoreCompileInputs.cache
+C:\Personal\Project\EventManagement\EventManagement.Repository\bin\Debug\net6.0\EventManagement.Application.deps.json
+C:\Personal\Project\EventManagement\EventManagement.Repository\bin\Debug\net6.0\EventManagement.Application.dll
+C:\Personal\Project\EventManagement\EventManagement.Repository\bin\Debug\net6.0\EventManagement.Application.pdb
+C:\Personal\Project\EventManagement\EventManagement.Repository\bin\Debug\net6.0\EventManagement.Common.dll
+C:\Personal\Project\EventManagement\EventManagement.Repository\bin\Debug\net6.0\EventManagement.Logger.dll
+C:\Personal\Project\EventManagement\EventManagement.Repository\bin\Debug\net6.0\EventManagement.Common.pdb
+C:\Personal\Project\EventManagement\EventManagement.Repository\bin\Debug\net6.0\EventManagement.Logger.pdb
+C:\Personal\Project\EventManagement\EventManagement.Repository\obj\Debug\net6.0\EventManagement.Application.csproj.CopyComplete
+C:\Personal\Project\EventManagement\EventManagement.Repository\obj\Debug\net6.0\EventManagement.Application.dll
+C:\Personal\Project\EventManagement\EventManagement.Repository\obj\Debug\net6.0\refint\EventManagement.Application.dll
+C:\Personal\Project\EventManagement\EventManagement.Repository\obj\Debug\net6.0\EventManagement.Application.pdb
+C:\Personal\Project\EventManagement\EventManagement.Repository\obj\Debug\net6.0\ref\EventManagement.Application.dll

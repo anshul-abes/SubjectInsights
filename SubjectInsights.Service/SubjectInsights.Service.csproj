@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SubjectInsights.Common\SubjectInsights.Common.csproj" />
+    <ProjectReference Include="..\SubjectInsights.Engine\SubjectInsights.Infrastructure.csproj" />
+    <ProjectReference Include="..\SubjectInsights.Logger\SubjectInsights.Logger.csproj" />
+    <ProjectReference Include="..\SubjectInsights.Repository\SubjectInsights.Application.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Mapper\" />
+  </ItemGroup>
+
+</Project>

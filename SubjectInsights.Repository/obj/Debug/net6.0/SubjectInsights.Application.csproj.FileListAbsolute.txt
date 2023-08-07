@@ -1,0 +1,17 @@
+C:\Personal\Project\SubjectInsights\SubjectInsights.Repository\bin\Debug\net6.0\SubjectInsights.Application.deps.json
+C:\Personal\Project\SubjectInsights\SubjectInsights.Repository\bin\Debug\net6.0\SubjectInsights.Application.dll
+C:\Personal\Project\SubjectInsights\SubjectInsights.Repository\bin\Debug\net6.0\SubjectInsights.Application.pdb
+C:\Personal\Project\SubjectInsights\SubjectInsights.Repository\bin\Debug\net6.0\SubjectInsights.Common.dll
+C:\Personal\Project\SubjectInsights\SubjectInsights.Repository\bin\Debug\net6.0\SubjectInsights.Logger.dll
+C:\Personal\Project\SubjectInsights\SubjectInsights.Repository\bin\Debug\net6.0\SubjectInsights.Common.pdb
+C:\Personal\Project\SubjectInsights\SubjectInsights.Repository\bin\Debug\net6.0\SubjectInsights.Logger.pdb
+C:\Personal\Project\SubjectInsights\SubjectInsights.Repository\obj\Debug\net6.0\SubjectInsights.Application.csproj.AssemblyReference.cache
+C:\Personal\Project\SubjectInsights\SubjectInsights.Repository\obj\Debug\net6.0\SubjectInsights.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal\Project\SubjectInsights\SubjectInsights.Repository\obj\Debug\net6.0\SubjectInsights.Application.AssemblyInfoInputs.cache
+C:\Personal\Project\SubjectInsights\SubjectInsights.Repository\obj\Debug\net6.0\SubjectInsights.Application.AssemblyInfo.cs
+C:\Personal\Project\SubjectInsights\SubjectInsights.Repository\obj\Debug\net6.0\SubjectInsights.Application.csproj.CoreCompileInputs.cache
+C:\Personal\Project\SubjectInsights\SubjectInsights.Repository\obj\Debug\net6.0\SubjectInsights.Application.csproj.CopyComplete
+C:\Personal\Project\SubjectInsights\SubjectInsights.Repository\obj\Debug\net6.0\SubjectInsights.Application.dll
+C:\Personal\Project\SubjectInsights\SubjectInsights.Repository\obj\Debug\net6.0\refint\SubjectInsights.Application.dll
+C:\Personal\Project\SubjectInsights\SubjectInsights.Repository\obj\Debug\net6.0\SubjectInsights.Application.pdb
+C:\Personal\Project\SubjectInsights\SubjectInsights.Repository\obj\Debug\net6.0\ref\SubjectInsights.Application.dll

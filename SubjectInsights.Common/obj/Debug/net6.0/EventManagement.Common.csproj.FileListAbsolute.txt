@@ -1,0 +1,15 @@
+C:\Personal\Project\EventManagement\EventManagement.Common\obj\Debug\net6.0\EventManagement.Common.csproj.AssemblyReference.cache
+C:\Personal\Project\EventManagement\EventManagement.Common\obj\Debug\net6.0\EventManagement.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal\Project\EventManagement\EventManagement.Common\obj\Debug\net6.0\EventManagement.Common.AssemblyInfoInputs.cache
+C:\Personal\Project\EventManagement\EventManagement.Common\obj\Debug\net6.0\EventManagement.Common.AssemblyInfo.cs
+C:\Personal\Project\EventManagement\EventManagement.Common\obj\Debug\net6.0\EventManagement.Common.csproj.CoreCompileInputs.cache
+C:\Personal\Project\EventManagement\EventManagement.Common\bin\Debug\net6.0\EventManagement.Common.deps.json
+C:\Personal\Project\EventManagement\EventManagement.Common\bin\Debug\net6.0\EventManagement.Common.dll
+C:\Personal\Project\EventManagement\EventManagement.Common\bin\Debug\net6.0\EventManagement.Common.pdb
+C:\Personal\Project\EventManagement\EventManagement.Common\bin\Debug\net6.0\EventManagement.Logger.dll
+C:\Personal\Project\EventManagement\EventManagement.Common\bin\Debug\net6.0\EventManagement.Logger.pdb
+C:\Personal\Project\EventManagement\EventManagement.Common\obj\Debug\net6.0\EventManagement.Common.csproj.CopyComplete
+C:\Personal\Project\EventManagement\EventManagement.Common\obj\Debug\net6.0\EventManagement.Common.dll
+C:\Personal\Project\EventManagement\EventManagement.Common\obj\Debug\net6.0\refint\EventManagement.Common.dll
+C:\Personal\Project\EventManagement\EventManagement.Common\obj\Debug\net6.0\EventManagement.Common.pdb
+C:\Personal\Project\EventManagement\EventManagement.Common\obj\Debug\net6.0\ref\EventManagement.Common.dll

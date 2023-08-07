@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "FwMsV/0CGs+/icYXJ/nl0k9jA01f+Hn+JrL2pU170so=",
+  "Source": "SubjectInsights.API",
+  "BasePath": "_content/SubjectInsights.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SubjectInsights.API\\wwwroot",
+      "Source": "SubjectInsights.API",
+      "ContentRoot": "C:\\Personal\\Project\\SubjectInsights\\SubjectInsights\\wwwroot\\",
+      "BasePath": "_content/SubjectInsights.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

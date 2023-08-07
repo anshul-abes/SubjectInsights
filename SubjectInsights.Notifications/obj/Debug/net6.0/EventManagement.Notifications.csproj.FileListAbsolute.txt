@@ -1,0 +1,5 @@
+C:\Personal\Project\EventManagement\EventManagement.Notifications\obj\Debug\net6.0\EventManagement.Notifications.csproj.AssemblyReference.cache
+C:\Personal\Project\EventManagement\EventManagement.Notifications\obj\Debug\net6.0\EventManagement.Notifications.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal\Project\EventManagement\EventManagement.Notifications\obj\Debug\net6.0\EventManagement.Notifications.AssemblyInfoInputs.cache
+C:\Personal\Project\EventManagement\EventManagement.Notifications\obj\Debug\net6.0\EventManagement.Notifications.AssemblyInfo.cs
+C:\Personal\Project\EventManagement\EventManagement.Notifications\obj\Debug\net6.0\EventManagement.Notifications.csproj.CoreCompileInputs.cache

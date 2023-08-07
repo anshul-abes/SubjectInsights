@@ -1,0 +1,35 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Entites\**" />
+    <EmbeddedResource Remove="Entites\**" />
+    <None Remove="Entites\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SubjectInsights.Common\SubjectInsights.Common.csproj" />
+    <ProjectReference Include="..\SubjectInsights.Repository\SubjectInsights.Application.csproj" />
+	</ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AWSSDK.SQS" Version="3.7.2.44" />
+    <PackageReference Include="Dapper" Version="2.0.123" />
+    <PackageReference Include="Dapper.Contrib" Version="2.0.78" />
+    <PackageReference Include="Microsoft.AspNetCore.Http.Abstractions" Version="2.2.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.7" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.7">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="MySql.Data" Version="8.0.30" />
+    <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="6.0.2" />
+    <PackageReference Include="SendGrid" Version="9.26.0" />
+	  <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.16.0" />
+	  <PackageReference Include="jose-jwt" Version="3.2.0" />
+  </ItemGroup>
+
+</Project>

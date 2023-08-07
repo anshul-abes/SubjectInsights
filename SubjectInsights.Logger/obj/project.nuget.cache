@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "K0OKnfNJJ0H9P3wodv2YUq605EDr7STCqx5DhA0dgRHMu7dsvAX7Rs5Q0/6FHFngJR6FbBuPIqclMABDeS/Hgw==",
+  "success": true,
+  "projectFilePath": "C:\\Personal\\Project\\SubjectInsights\\SubjectInsights.Logger\\SubjectInsights.Logger.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\averma10\\.nuget\\packages\\amazon.lambda.core\\2.1.0\\amazon.lambda.core.2.1.0.nupkg.sha512",
+    "C:\\Users\\averma10\\.nuget\\packages\\nlog\\4.7.14\\nlog.4.7.14.nupkg.sha512"
+  ],
+  "logs": []
+}

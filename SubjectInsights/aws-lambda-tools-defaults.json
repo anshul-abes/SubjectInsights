@@ -1,0 +1,8 @@
+
+{
+    "region" : "ap-south-1",
+    "profile" : "default",
+    "s3-bucket" : "sangathan-api-deployment",
+    "template"  : "serverless.template",
+    "stack-name" : "sangathan-api-stack"
+}

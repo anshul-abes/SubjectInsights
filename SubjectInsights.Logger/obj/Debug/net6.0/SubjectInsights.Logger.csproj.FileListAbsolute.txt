@@ -1,0 +1,12 @@
+C:\Personal\Project\SubjectInsights\SubjectInsights.Logger\bin\Debug\net6.0\SubjectInsights.Logger.deps.json
+C:\Personal\Project\SubjectInsights\SubjectInsights.Logger\bin\Debug\net6.0\SubjectInsights.Logger.dll
+C:\Personal\Project\SubjectInsights\SubjectInsights.Logger\bin\Debug\net6.0\SubjectInsights.Logger.pdb
+C:\Personal\Project\SubjectInsights\SubjectInsights.Logger\obj\Debug\net6.0\SubjectInsights.Logger.csproj.AssemblyReference.cache
+C:\Personal\Project\SubjectInsights\SubjectInsights.Logger\obj\Debug\net6.0\SubjectInsights.Logger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal\Project\SubjectInsights\SubjectInsights.Logger\obj\Debug\net6.0\SubjectInsights.Logger.AssemblyInfoInputs.cache
+C:\Personal\Project\SubjectInsights\SubjectInsights.Logger\obj\Debug\net6.0\SubjectInsights.Logger.AssemblyInfo.cs
+C:\Personal\Project\SubjectInsights\SubjectInsights.Logger\obj\Debug\net6.0\SubjectInsights.Logger.csproj.CoreCompileInputs.cache
+C:\Personal\Project\SubjectInsights\SubjectInsights.Logger\obj\Debug\net6.0\SubjectInsights.Logger.dll
+C:\Personal\Project\SubjectInsights\SubjectInsights.Logger\obj\Debug\net6.0\refint\SubjectInsights.Logger.dll
+C:\Personal\Project\SubjectInsights\SubjectInsights.Logger\obj\Debug\net6.0\SubjectInsights.Logger.pdb
+C:\Personal\Project\SubjectInsights\SubjectInsights.Logger\obj\Debug\net6.0\ref\SubjectInsights.Logger.dll

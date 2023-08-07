@@ -1,0 +1,20 @@
+{
+  "AWSTemplateFormatVersion": "2010-09-09",
+  "Transform": "AWS::Serverless-2016-10-31",
+  "Description": "An AWS Serverless Application that uses the ASP.NET Core framework running in Amazon Lambda.",
+  "Parameters":{},
+  "Conditions": {},
+  "Resources": {
+    "subjectinsightsapi": {
+      "Type": "AWS::Serverless::Function",
+      "Properties": {
+        "Handler": "SubjectInsights.Api::SubjectInsights.Api.LambdaEntryPoint::FunctionHandlerAsync",
+        "Runtime": "dotnet6",
+        "CodeUri": "",
+        "MemorySize": 1024,
+        "Timeout": 900,
+        "Role": "arn:aws:iam::434847530041:role/service-role/sangathan-api-role-yz9cmfca"
+      }
+    }
+  }
+}

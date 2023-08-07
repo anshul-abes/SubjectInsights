@@ -1,0 +1,12 @@
+C:\Personal\Project\EventManagement\EventManagement.Logger\bin\Debug\net6.0\EventManagement.Logger.deps.json
+C:\Personal\Project\EventManagement\EventManagement.Logger\bin\Debug\net6.0\EventManagement.Logger.dll
+C:\Personal\Project\EventManagement\EventManagement.Logger\bin\Debug\net6.0\EventManagement.Logger.pdb
+C:\Personal\Project\EventManagement\EventManagement.Logger\obj\Debug\net6.0\EventManagement.Logger.csproj.AssemblyReference.cache
+C:\Personal\Project\EventManagement\EventManagement.Logger\obj\Debug\net6.0\EventManagement.Logger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal\Project\EventManagement\EventManagement.Logger\obj\Debug\net6.0\EventManagement.Logger.AssemblyInfoInputs.cache
+C:\Personal\Project\EventManagement\EventManagement.Logger\obj\Debug\net6.0\EventManagement.Logger.AssemblyInfo.cs
+C:\Personal\Project\EventManagement\EventManagement.Logger\obj\Debug\net6.0\EventManagement.Logger.csproj.CoreCompileInputs.cache
+C:\Personal\Project\EventManagement\EventManagement.Logger\obj\Debug\net6.0\EventManagement.Logger.dll
+C:\Personal\Project\EventManagement\EventManagement.Logger\obj\Debug\net6.0\refint\EventManagement.Logger.dll
+C:\Personal\Project\EventManagement\EventManagement.Logger\obj\Debug\net6.0\EventManagement.Logger.pdb
+C:\Personal\Project\EventManagement\EventManagement.Logger\obj\Debug\net6.0\ref\EventManagement.Logger.dll

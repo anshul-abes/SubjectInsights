@@ -1,0 +1,15 @@
+C:\Personal\Project\SubjectInsights\SubjectInsights.Common\bin\Debug\net6.0\SubjectInsights.Common.deps.json
+C:\Personal\Project\SubjectInsights\SubjectInsights.Common\bin\Debug\net6.0\SubjectInsights.Common.dll
+C:\Personal\Project\SubjectInsights\SubjectInsights.Common\bin\Debug\net6.0\SubjectInsights.Common.pdb
+C:\Personal\Project\SubjectInsights\SubjectInsights.Common\bin\Debug\net6.0\SubjectInsights.Logger.dll
+C:\Personal\Project\SubjectInsights\SubjectInsights.Common\bin\Debug\net6.0\SubjectInsights.Logger.pdb
+C:\Personal\Project\SubjectInsights\SubjectInsights.Common\obj\Debug\net6.0\SubjectInsights.Common.csproj.AssemblyReference.cache
+C:\Personal\Project\SubjectInsights\SubjectInsights.Common\obj\Debug\net6.0\SubjectInsights.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal\Project\SubjectInsights\SubjectInsights.Common\obj\Debug\net6.0\SubjectInsights.Common.AssemblyInfoInputs.cache
+C:\Personal\Project\SubjectInsights\SubjectInsights.Common\obj\Debug\net6.0\SubjectInsights.Common.AssemblyInfo.cs
+C:\Personal\Project\SubjectInsights\SubjectInsights.Common\obj\Debug\net6.0\SubjectInsights.Common.csproj.CoreCompileInputs.cache
+C:\Personal\Project\SubjectInsights\SubjectInsights.Common\obj\Debug\net6.0\SubjectInsights.Common.csproj.CopyComplete
+C:\Personal\Project\SubjectInsights\SubjectInsights.Common\obj\Debug\net6.0\SubjectInsights.Common.dll
+C:\Personal\Project\SubjectInsights\SubjectInsights.Common\obj\Debug\net6.0\refint\SubjectInsights.Common.dll
+C:\Personal\Project\SubjectInsights\SubjectInsights.Common\obj\Debug\net6.0\SubjectInsights.Common.pdb
+C:\Personal\Project\SubjectInsights\SubjectInsights.Common\obj\Debug\net6.0\ref\SubjectInsights.Common.dll
