@@ -10,6 +10,7 @@ using MySql.Data.MySqlClient;
 using Microsoft.Extensions.Configuration;
 using SubjectInsights.Application.Entities;
 using System.Text;
+using SubjectInsights.Common;
 
 namespace SubjectInsights.Infrastructure.Repository
 {
@@ -25,7 +26,8 @@ namespace SubjectInsights.Infrastructure.Repository
         {
             try
             {
-                string query = $"SELECT eventaccessmodules.* FROM eventaccessmodules INNER JOIN eventaccess ON eventaccessmodules   .EventAccessId = eventaccess.Id WHERE eventaccess.Mobile=" + cellPhone + " AND eventaccess.IsActive=1";
+                string query = $"SELECT eventaccessmodules.* FROM eventaccessmodules INNER JOIN eventaccess ON " +
+                    $"eventaccessmodules.EventAccessId = eventaccess.Id WHERE eventaccess.Mobile=" + cellPhone + " AND eventaccessmodules.Module='" + ModuleAccess.SubjectCreteAccess + "' AND eventaccess.IsActive=1";
 
                 using MySqlConnection connection = new(_configuration.GetConnectionString("DefaultConnection"));
                 var result = await connection.QueryAsync<SubjectInsightsAccessModulesModel>(query);
@@ -145,8 +147,8 @@ namespace SubjectInsights.Infrastructure.Repository
                     subjectInsightsFormBuilderModel.UpdatedBy,
                     subjectInsightsFormBuilderModel.CreatedByEmail
                 };
-                string query = "INSERT INTO subjectformbuilder (title,state,tag,subjectimage,isActive,contentform,createdAt,updatdby,createdbyemail)" +
-                    " VALUES (@Title,@State,@Tag,@SubjectImage,@IsActive,@SubjectContentForm,@createdAt,@UpdatedBy,@UpdatedByEmail) ";
+                string query = "INSERT INTO subjectformbuilder (title,state,tag,subjectimage,isActive,contentform,createdAt,updatedby,createdbyemail)" +
+                    " VALUES (@Title,@State,@Tag,@SubjectImage,@IsActive,@SubjectContentForm,@createdAt,@UpdatedBy,@CreatedByEmail) ";
 
                 using MySqlConnection connection = new(_configuration.GetConnectionString("DefaultConnection"));
                 var identity = await connection.ExecuteScalarAsync<long>(query, parameters);
